@@ -30,6 +30,6 @@ print("transposed matrix: ", transposed)
 
 transposed2 : list = []
 transposed2 = list(zip(*m1))
-print("transposed 2: ", transposed2)
+print("transposed 2: ", transposed2) 
 
 
