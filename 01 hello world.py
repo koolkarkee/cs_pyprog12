@@ -16,5 +16,9 @@ THis is multi line comment and the code block will not
 be interpreted
 '''
 
-print('code after multi line comment')
+"""
+print("this is a comment line")
+"""
+print("this is a comment line")
 
+print('code after multi line comment')
